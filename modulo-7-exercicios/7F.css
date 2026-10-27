@@ -1,0 +1,43 @@
+
+p{
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+  color: rgb(100, 100, 100);
+}
+
+.e-mail{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.form{
+  font-family: 16px;
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(100, 100, 100);
+  padding: 7px 0;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+
+.content{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+
+.button-agree{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  font-family:arial;
+  font-size: 20px;
+  width: 400px;
+  text-align: center;
+  padding: 16px 0;
+  border-radius: 30px;
+  cursor: pointer;
+}
